@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">studysnslogin</string>
+    <string name="facebook_app_id">690801195393436</string>
+    <string name="fb_login_protocol_scheme">fb690801195393436</string>
+    <string name="facebook_client_token">ca2e50b78cc3ef372e2189f6d243573c</string>
+</resources>
